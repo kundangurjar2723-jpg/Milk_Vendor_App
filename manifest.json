@@ -1,0 +1,22 @@
+{
+  "id": "/Milk_Vendor_App/",
+  "name": "Doodh Ka Hisaab",
+  "short_name": "Milk Hisab",
+  "start_url": "/Milk_Vendor_App/",
+  "scope": "/Milk_Vendor_App/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#176b55",
+  "icons": [
+    {
+      "src": "/Milk_Vendor_App/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/Milk_Vendor_App/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
